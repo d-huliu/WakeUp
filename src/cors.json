@@ -1,0 +1,8 @@
+[
+    {
+      "origin": ["http://localhost:5173", "https://thiswebsitewillhelpyoustudy.xyz"],
+      "method": ["GET", "POST", "PUT"],
+      "maxAgeSeconds": 3600
+    }
+  ]
+  

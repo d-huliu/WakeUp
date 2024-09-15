@@ -1,0 +1,47 @@
+{
+  "name": "wakeup",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@tabler/icons-react": "^2.41.0",
+    "@types/firebase": "^2.4.32",
+    "@types/react-router-dom": "^5.3.3",
+    "firebase": "^10.13.1",
+    "framer-motion": "^10.18.0",
+    "gsap": "^3.9.1",
+    "langchain": "^0.0.192",
+    "openai": "^4.19.0",
+    "play-sound": "^1.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.3.0",
+    "react-router-dom": "^6.26.2",
+    "react-webcam": "^7.2.0",
+    "sound-play": "^1.1.0",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "@typescript-eslint/eslint-plugin": "^6.10.0",
+    "@typescript-eslint/parser": "^6.10.0",
+    "@vitejs/plugin-react-swc": "^3.5.0",
+    "eslint": "^8.53.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.4",
+    "gsap": "^3.9.1",
+    "typescript": "^5.2.2",
+    "vite": "^5.0.0"
+  }
+}
