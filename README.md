@@ -5,6 +5,12 @@
 A Social Media platform where your Alarm will not go off until you snap your friends with a morning task!
 
 ![Cover](https://i.imgur.com/3o3NqG5.png)
+
+Try WakeUp on WebApp:
+http://thiswebsitewillhelpyou.study/
+
+Set to Mobile Screen for User Experience.
+
 -----------------------------------------------------------------------------------------------------------------
 ## 💭Inspiration💭
 
