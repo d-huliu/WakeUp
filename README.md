@@ -1,10 +1,12 @@
 
-#WakeUp.
------------------------------------------------------------------------------------------------------------------
-###Have your friends Motivate you to Wake Up... Try WakeUp Now!
+
+# WakeUp.
+
+## Have your friends Motivate you to Wake Up... Try WakeUp Now!
 
 A Social Media platform where your Alarm will not go off until you snap your friends with a morning task!
 
+![Cover](https://i.imgur.com/3o3NqG5.png)
 -----------------------------------------------------------------------------------------------------------------
 ## 💭Inspiration💭
 
