@@ -1,3 +1,4 @@
+
 #WakeUp.
 -----------------------------------------------------------------------------------------------------------------
 ###Have your friends Motivate you to Wake Up... Try WakeUp Now!
@@ -30,7 +31,11 @@ Create your own WakeUp Account to then find/add your friends in the **Chat** tab
 -----------------------------------------------------------------------------------------------------------------
 
 ## 🔨How we built it🔨
+We built WakeUp using a modern tech stack centered around React for the frontend, utilizing Chakra UI for a responsive and visually appealing user interface. Firebase was integrated for real-time database interactions and authentication, ensuring seamless data storage and retrieval for user profiles, friends, and chat messages. 
 
+The project employs React Router for navigation between the various components, such as the alarm system, profile management, and chat interface. Framer Motion and GSAP were used to add interactive animations, enhancing the user experience. We also incorporated react-webcam for snapshot functionality within the alarm feature, and UUID for unique user identification. T
+
+he app's backend logic, including tasks, alarm management, and chat functionalities, was tied together using Firebase's real-time database and cloud storage, making the app both fully functional and scalable.
 -----------------------------------------------------------------------------------------------------------------
 ## 💪Challenges we ran into💪
 
